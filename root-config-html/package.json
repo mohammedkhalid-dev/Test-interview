@@ -5,7 +5,7 @@
     "scripts": {
         "start": "serve -s -l 9900"
     },
-    "author": "Reza Rahmati",
+    "author": "Mohammed",
     "license": "MIT",
     "devDependencies": {
         "serve": "^14.1.2"
